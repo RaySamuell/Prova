@@ -17,3 +17,7 @@ Resposta: è a junção das Branchs
 Pergunta - 5 - O que é Pull ?
 
 Resposta: Pull é quando traz as alterações do remoto para o local.
+
+Pergunta - 6 - O que é Branch ?
+
+Resposta: É a ramificação dos repositórios.
