@@ -13,3 +13,7 @@ Resposta: Repositório é uma pasta onde vai ser guardado os arquivos do projeto
 Pergunta - 4 - O que é Merge ?
 
 Resposta: è a junção das Branchs
+
+Pergunta - 5 - O que é Pull ?
+
+Resposta: Pull é quando traz as alterações do remoto para o local.
